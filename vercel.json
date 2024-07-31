@@ -7,7 +7,7 @@
       "config": {}
     },
     {
-      "src": "frontend/**",
+      "src": "frontend/package.json",
       "use": "@vercel/static-build",
       "config": {}
     }
@@ -19,7 +19,7 @@
     },
     {
       "src": "/*",
-      "dest": "frontend/public/index.html"
+      "dest": "frontend/index.html"
     }
   ]
 }
