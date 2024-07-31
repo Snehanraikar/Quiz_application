@@ -1,6 +1,5 @@
 # Quiz_application
 
-# quiz-application
 quiz competition game using Websockets(socket.io), Node.js, Express.
 
 ## Description
