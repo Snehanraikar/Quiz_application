@@ -1,0 +1,14 @@
+body {
+    background-image: url('k.jpg');
+    background-size: 300% 300%;
+    animation: move-background 10s linear infinite;
+  }
+  
+  @keyframes move-background {
+    0% {
+      background-position: 0% 0%;
+    }
+    100% {
+      background-position: -200% 0%;
+    }
+  }
